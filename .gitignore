@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+
+# Python / local runtime
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated scratch/output directories
+outputs/
+
+# Tool caches
+.matplotlib/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
