@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(/mingw64/bin/pdftotext -raw 'D:/diangongbei/2026diangongbei/2026年电工杯竞赛赛题/2026年电工杯竞赛赛题/B题/B题：嵌入式社区养老服务站的建设与优化问题.pdf' -)"
+    ]
+  }
+}
